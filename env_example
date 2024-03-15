@@ -1,0 +1,7 @@
+#### For no proxy ###
+HTTP=''
+HTTPS=''
+
+#### For proxy ###
+HTTP='http://185.153.198.188:8118'
+HTTPS='https://185.153.198.188:8118'
